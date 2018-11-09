@@ -6,6 +6,7 @@ public class NumberCount{
 
 	public static void main(String[] args)
 	{
+		System.out.println("Welcome");
 			Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the size of the array: ");
 		int s=sc.nextInt();
